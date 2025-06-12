@@ -23,26 +23,28 @@ This is a 3D interactive Solar System simulation built using [Three.js](https://
 ## 🚀 Live Demo
 
 Click the below link to open it and view live!!
-🔗 [View Live Project](https://harinii-a.github.io/solor-system-Threejs/)
+
+🔗 [View Live Project](https://harinii-a.github.io/3Dsolar-system-Threejs/)
 
 ---
 
 ## 📁 Folder Structure
-solor-system-Threejs/
-│
-├── index.html 
-├── style.css 
-├── main.js
-├── imgs/
-│ ├── mercury.jpg
-│ ├── venus.jpg
-│ ├── earth.jpg
-│ ├── mars.jpg
-│ ├── jupiter.jpg
-│ ├── saturn.jpg
-│ ├── uranus.jpg
-│ ├── neptune.jpg
-│ ├── sun.jpg
+
+  solor-system-Threejs/
+  │
+  ├── index.html 
+  ├── style.css 
+  ├── main.js
+  ├── imgs/
+  │ ├── mercury.jpg
+  │ ├── venus.jpg
+  │ ├── earth.jpg
+  │ ├── mars.jpg
+  │ ├── jupiter.jpg
+  │ ├── saturn.jpg
+  │ ├── uranus.jpg
+  │ ├── neptune.jpg
+  │ ├── sun.jpg
 
 
 ---
