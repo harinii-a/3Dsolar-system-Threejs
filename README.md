@@ -26,28 +26,6 @@ Click the below link to open it and view live!!
 
 🔗 [View Live Project](https://harinii-a.github.io/3Dsolar-system-Threejs/)
 
----
-
-## 📁 Folder Structure
-
-  solor-system-Threejs/
-  │
-  ├── index.html 
-  ├── style.css 
-  ├── main.js
-  ├── imgs/
-  │ ├── mercury.jpg
-  │ ├── venus.jpg
-  │ ├── earth.jpg
-  │ ├── mars.jpg
-  │ ├── jupiter.jpg
-  │ ├── saturn.jpg
-  │ ├── uranus.jpg
-  │ ├── neptune.jpg
-  │ ├── sun.jpg
-
-
----
 
 ## 🧑‍💻 How to Run Locally
 
